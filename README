@@ -1,0 +1,7 @@
+Author: Shilei Long (shilei.long88@gmail.com)
+
+Note: Spark is new to me:-) I spent some time learing about the framework. I chose to implement in Java, a language I'm more comfortabe with, due to time constraints to finish the challenge. 
+
+Example command to submit the job:
+
+spark-submit --class com.paytmlabs.weblogchallenge.drivers.WeblogChallengeDriver --master local[4] path-to-jar path-to-weblog-file
